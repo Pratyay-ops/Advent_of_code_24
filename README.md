@@ -1,4 +1,4 @@
-# Advent_of_code_24 with C++ 
+# Advent_of_code_24 with C++ [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 Welcome to the Advent of Code[^aoc] with C++ project created by [Pratyay][github] using the [own template][template].
 
 Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels
