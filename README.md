@@ -16,4 +16,4 @@ I will try to participate in this to solve every problem possible using C++ or P
 
 [aoc]: https://adventofcode.com
 [github]: https://github.com/Pratyay-ops
-[template]: https://github.com/Pratyay-ops/Advent_of_code_23/blob/main/template_usual.cpp
+[template]: https://github.com/Pratyay-ops/Advent_of_code_24/blob/main/Cp_template.cpp
